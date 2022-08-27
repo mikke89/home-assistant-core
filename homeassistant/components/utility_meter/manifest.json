@@ -1,11 +1,11 @@
 {
-  "domain": "utility_meter",
+  "domain": "my_utility_meter",
   "integration_type": "helper",
-  "name": "Utility Meter",
+  "name": "My utility Meter",
   "documentation": "https://www.home-assistant.io/integrations/utility_meter",
   "requirements": ["croniter==1.0.6"],
   "codeowners": ["@dgomes"],
-  "quality_scale": "internal",
+  "version": "0.0.1",
   "iot_class": "local_push",
   "loggers": ["croniter"],
   "config_flow": true
